@@ -1,6 +1,6 @@
-deep learning papers catalog - chronological order
+Deep learning papers index - in chronological order.
 
-forked gratefully from Denny Britz
+Forked gratefully from Denny Britz.  Links in titles themselves are to notes on the papers, so far all by Denny.
 
 
 #### 2017-05
@@ -12,6 +12,9 @@ forked gratefully from Denny Britz
 
 - General Video Game AI: Learning from Screen Capture [[arXiv](https://arxiv.org/abs/1704.06945)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
+- Towards Principled Methods for Training
+Generative Adversarial Networks [[arxiv](https://arxiv.org/abs/1701.04862)] [[OpenReview ICLR review discussion](https://openreview.net/forum?id=Hk4_qw5xe&noteId=Hk4_qw5xe)]
+- Making Neural Programming Architectures Generalize via Recursion [[arxiv](https://arxiv.org/abs/1704.06611)] [[OpenReview ICLR review discussion](https://openreview.net/forum?id=BkbY4psgg&noteId=BkbY4psgg)]
 
 
 #### 2017-03
@@ -90,7 +93,7 @@ Reinforcement Learning:
 - Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
 - Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](notes/rl-auxiliary-tasks.md) [[arXiv](https://arxiv.org/abs/1611.05397)]
-- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)] [[arxiv](https://arxiv.org/abs/1611.01578)] [[google research blog](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)]
+- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)] [[arxiv](https://arxiv.org/abs/1611.01578)] [[google research blog](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)] [[ICLR review discussion](https://openreview.net/forum?id=r1Ue8Hcxg&noteId=r1Ue8Hcxg)]
 - Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
 - Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
 - Improving Policy Gradient by Exploring Under-appreciated Rewards [[OpenReview](http://openreview.net/forum?id=ryT4pvqll)]
