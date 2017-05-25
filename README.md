@@ -1,7 +1,18 @@
+deep learning papers catalog - chronological order
+
+forked gratefully from Denny Britz
+
+
+#### 2017-05
+
+- Best Practices for Applying Deep Learning to Novel Applications [[arxiv](https://arxiv.org/abs/1704.01568)]
+
+
 #### 2017-04
 
 - General Video Game AI: Learning from Screen Capture [[arXiv](https://arxiv.org/abs/1704.06945)]
 - Learning to Skim Text [[arXiv](https://arxiv.org/abs/1704.06877)]
+
 
 #### 2017-03
 
@@ -30,6 +41,7 @@
 - Skip Connections as Effective Symmetry-Breaking [arXiv](https://arxiv.org/abs/1701.09175)
 - odelSemi-Supervised QA with Generative Domain-Adaptive Nets [[arXiv](https://arxiv.org/abs/1702.02206)]
 
+
 #### 2017-01
 
 - Wasserstein GAN [arXiv](https://arxiv.org/abs/1701.07875)
@@ -37,6 +49,7 @@
 - DyNet: The Dynamic Neural Network Toolkit [[arXiv](https://arxiv.org/abs/1701.03980)]
 - DeepStack: Expert-Level Artificial Intelligence in No-Limit Poker [[arXiv](https://arxiv.org/abs/1701.01724)]
 - NIPS 2016 Tutorial: Generative Adversarial Networks [arXiv](https://arxiv.org/abs/1701.00160)
+
 
 #### 2016-12
 
@@ -48,13 +61,14 @@
 - Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning [[arXiv](https://arxiv.org/abs/1612.01887)]
 - Overcoming catastrophic forgetting in neural networks [[arXiv](https://arxiv.org/abs/1612.00796)]
 
+
 #### 2016-11 (ICLR Edition)
 
 - Image-to-Image Translation with Conditional Adversarial Networks [[arXiv](https://arxiv.org/abs/1611.07004)]
 - [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](notes/mixture-experts.md) [[OpenReview](https://openreview.net/forum?id=B1ckMDqlg)]
 - Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
 - A Way out of the Odyssey: Analyzing and Combining Recent Insights for LSTMs [[arXiv](https://arxiv.org/abs/1611.05104)]
-- [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)]
+- [Adversarial Training Methods for Semi-Supervised Text Classification](notes/adversarial-text-classification.md) [[arXiv](https://arxiv.org/abs/1605.07725)] [[see also google research blog post](Adversarial Training Methods for Semi-Supervised Text Classification)]
 - Importance Sampling with Unequal Support [[arXiv](https://arxiv.org/abs/1611.03451)]
 - Quasi-Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1611.01576)]
 - Capacity and Learnability in Recurrent Neural Networks [[OpenReview](http://openreview.net/forum?id=BydARw9ex)]
@@ -76,7 +90,7 @@ Reinforcement Learning:
 - Generalizing Skills with Semi-Supervised Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=ryHlUtqge)]
 - Sample Efficient Actor-Critic with Experience Replay [[OpenReview](http://openreview.net/forum?id=HyM25Mqel)]
 - [Reinforcement Learning with Unsupervised Auxiliary Tasks](notes/rl-auxiliary-tasks.md) [[arXiv](https://arxiv.org/abs/1611.05397)]
-- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)]
+- Neural Architecture Search with Reinforcement Learning [[OpenReview](http://openreview.net/forum?id=r1Ue8Hcxg)] [[arxiv](https://arxiv.org/abs/1611.01578)] [[google research blog](https://research.googleblog.com/2017/05/using-machine-learning-to-explore.html)]
 - Towards Information-Seeking Agents [[OpenReview](http://openreview.net/forum?id=SyW2QSige)]
 - Multi-Agent Cooperation and the Emergence of (Natural) Language [[OpenReview](http://openreview.net/forum?id=Hk8N3Sclg)]
 - Improving Policy Gradient by Exploring Under-appreciated Rewards [[OpenReview](http://openreview.net/forum?id=ryT4pvqll)]
@@ -94,7 +108,6 @@ Reinforcement Learning:
 - Unsupervised Perceptual Rewards for Imitation Learning [[OpenReview](http://openreview.net/forum?id=Bkul3t9ee)]
 - Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic [[OpenReview](http://openreview.net/forum?id=SJ3rcZcxl)]
 
-
 Machine Translation & Dialog
 
 - [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](notes/gnmt-multilingual.md) [[arXiv](https://arxiv.org/abs/1611.04558)]
@@ -109,7 +122,6 @@ Machine Translation & Dialog
 - Learning through Dialogue Interactions [[OpenReview](http://openreview.net/forum?id=rkE8pVcle)]
 - [Dual Learning for Machine Translation](notes/dual-learning-mt.md) [[arXiv](https://arxiv.org/abs/1611.00179)]
 - Unsupervised Pretraining for Sequence to Sequence Learning [[arXiv](https://arxiv.org/abs/1611.02683)]
-
 
 
 #### 2016-10
@@ -128,6 +140,7 @@ Machine Translation & Dialog
 - Collective Robot Reinforcement Learning with Distributed Asynchronous Guided Policy Search [arXiv](https://arxiv.org/abs/1610.00673)
 - [Pointer Sentinel Mixture Models](notes/pointer-sentinel-mixture.md) [arXiv](https://arxiv.org/abs/1609.07843)
 
+
 #### 2016-09
 
 - Towards Deep Symbolic Reinforcement Learning [[arXiv](https://arxiv.org/abs/1609.05518)]
@@ -145,6 +158,7 @@ Machine Translation & Dialog
 - End-to-End Reinforcement Learning of Dialogue Agents for Information Access [[arXiv](https://arxiv.org/abs/1609.00777)]
 - Deep Neural Networks for YouTube Recommendations [[paper](https://research.google.com/pubs/pub45530.html)]
 
+
 #### 2016-08
 
 - Machine Comprehension Using Match-LSTM and Answer Pointer [[arXiv](https://arxiv.org/abs/1608.07905)]
@@ -154,6 +168,7 @@ Machine Translation & Dialog
 - Temporal Attention Model for Neural Machine Translation [[arXiv](http://arxiv.org/abs/1608.02927)]
 - Residual Networks of Residual Networks: Multilevel Residual Networks [[arXiv](http://arxiv.org/abs/1608.02908)]
 - [Learning Online Alignments with Continuous Rewards Policy Gradient](notes/online-alignments-pg.md) [[arXiv](https://arxiv.org/abs/1608.01281)]
+
 
 #### 2016-07
 
@@ -170,6 +185,7 @@ Machine Translation & Dialog
 - Bag of Tricks for Efficient Text Classification [[arXiv](http://arxiv.org/abs/1607.01759)]
 - Context-Dependent Word Representation for Neural Machine Translation [[arXiv](https://arxiv.org/abs/1607.00578)]
 - Dynamic Neural Turing Machine with Soft and Hard Addressing Schemes [[arXiv](http://arxiv.org/abs/1607.00036)]
+
 
 #### 2016-06
 
@@ -209,9 +225,9 @@ Machine Translation & Dialog
 - Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation [[arXiv](https://arxiv.org/abs/1606.00776)]
 - [Natural Language Comprehension with the EpiReader](notes/epireader.md) [[arXiv](https://arxiv.org/abs/1606.02270)]
 - Conversational Contextual Cues: The Case of Personalization and History for Response Ranking [[arXiv](https://arxiv.org/abs/1606.00372)]
-
 - Adversarially Learned Inference [[arXiv](https://arxiv.org/abs/1606.00704)]
 - Neural Network Translation Models for Grammatical Error Correction [[arXiv](https://arxiv.org/abs/1606.00189)]
+
 
 #### 2016-05
 
@@ -283,6 +299,7 @@ Machine Translation & Dialog
 - Character-based Neural Machine Translation [[arXiv](http://arxiv.org/abs/1603.00810)]
 - Learning Word Segmentation Representations to Improve Named Entity Recognition for Chinese Social Media [[arXiv](http://arxiv.org/abs/1603.00786)]
 
+
 #### 2016-02
 
 - Architectural Complexity Measures of Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1602.08210)]
@@ -303,6 +320,7 @@ Machine Translation & Dialog
 - BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 [[arXiv](http://arxiv.org/abs/1602.02830)]
 - Learning Discriminative Features via Label Consistent Neural Network [[arXiv](http://arxiv.org/abs/1602.01168)]
 
+
 #### 2016-01
 
 - Pixel Recurrent Neural Networks [[arXiv](http://arxiv.org/abs/1601.06759)]
@@ -319,6 +337,7 @@ Machine Translation & Dialog
 - The Inevitability of Probability: Probabilistic Inference in Generic Neural Networks Trained with Non-Probabilistic Feedback [[arXiv](http://arxiv.org/abs/1601.03060)]
 - COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images [[arXiv](http://arxiv.org/abs/1601.07140)]
 - Survey on the attention based RNN model and its applications in computer vision [[arXiv](http://arxiv.org/abs/1601.06823)]
+
 
 #### 2015-12
 
@@ -383,8 +402,6 @@ General
 - Regularizing RNNs by Stabilizing Activations [[arXiv](http://arxiv.org/abs/1511.08400)]
 
 
-
-
 #### 2015-10
 
 - [A Sensitivity Analysis of (and Practitioners' Guide to) Convolutional Neural Networks for Sentence Classification](notes/sensitivity-analysis-cnn-sentence-classification.md) [[arXiv](http://arxiv.org/abs/1510.03820)]
@@ -401,6 +418,7 @@ General
 - [A Neural Attention Model for Abstractive Sentence Summarization](notes/neural-attention-model-for-abstractive-sentence-summarization.md) [[arXiv](http://arxiv.org/abs/1509.00685)]
 - Poker-CNN: A Pattern Learning Strategy for Making Draws and Bets in Poker Games [[arXiv](http://arxiv.org/abs/1509.06731)]
 
+
 #### 2015-08
 
 - [Neural Machine Translation of Rare Words with Subword Units](notes/nmt-subword.md) [[arXiv](https://arxiv.org/abs/1508.07909)]
@@ -410,12 +428,14 @@ General
 - Finding Function in Form: Compositional Character Models for Open Vocabulary Word Representation [[arXiv](http://arxiv.org/abs/1508.02096)]
 - [Effective Approaches to Attention-based Neural Machine Translation](notes/effective-approaches-nmt-attention.md) [[arXiv](https://arxiv.org/abs/1508.04025)]
 
+
 #### 2015-07
 
 - [Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models](e2e-dialog-ghnnm.md) [[arXiv](http://arxiv.org/abs/1507.04808)]
 - Semi-Supervised Learning with Ladder Networks [[arXiv](http://arxiv.org/abs/1507.02672)]
 - [Document Embedding with Paragraph Vectors](notes/document-embedding-with-pv.md) [[arXiv](http://arxiv.org/abs/1507.07998)]
 - [Training Very Deep Networks](notes/training-very-deep-networks.md) [[arXiv](http://arxiv.org/abs/1507.06228)]
+
 
 #### 2015-06
 
@@ -432,17 +452,19 @@ General
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing [[arXiv](http://arxiv.org/abs/1506.07285)]
 - [Deep Knowledge Tracing](notes/deep-knowledge-tracing.md) [[arXiv](http://arxiv.org/abs/1506.05908)]
 
+
 #### 2015-05
 
 - [ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks](notes/renet-rnn-alternative-to-convnet.md) [[arXiv](http://arxiv.org/abs/1505.00393)]
 - Reinforcement Learning Neural Turing Machines [[arXiv](http://arxiv.org/abs/1505.00521)]
 
+
 #### 2015-04
 
 - Correlational Neural Networks [[arXiv](http://arxiv.org/abs/1504.07225)]
 
-#### 2015-03
 
+#### 2015-03
 
 - [Distilling the Knowledge in a Neural Network](notes/distilling-the-knowledge-in-a-nn.md) [[arXiv](http://arxiv.org/abs/1503.02531)]
 - [End-To-End Memory Networks](notes/end-to-end-memory-networks.md) [[arXiv](http://arxiv.org/abs/1503.08895)]
@@ -454,8 +476,11 @@ General
 
 - [Text Understanding from Scratch](notes/text-understanding-from-scratch.md) [[arXiv](http://arxiv.org/abs/1502.01710)]
 - [Show, Attend and Tell: Neural Image Caption Generation with Visual Attention](notes/show-attend-tell.md) [[arXiv](http://arxiv.org/abs/1502.03044)]
+- [Trust Region Policy Optimization] todo: add notes [[arXiv](https://arxiv.org/abs/1502.05477)]
+
 
 #### 2015-01
+
 
 #### 2014-12
 
@@ -466,11 +491,14 @@ General
 - Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]
 - Multiple Object Recognition with Visual Attention [[arXiv](http://arxiv.org/abs/1412.7755)]
 
+
 #### 2014-11
+
 
 #### 2014-10
 
 - [Learning to Execute](notes/learning-to-execute.md) [[arXiv](http://arxiv.org/abs/1410.4615)]
+
 
 #### 2014-09
 
@@ -481,11 +509,14 @@ General
 - Very Deep Convolutional Networks for Large-Scale Image Recognition [[arXiv](http://arxiv.org/abs/1409.1556)]
 - Going Deeper with Convolutions [[arXiv](http://arxiv.org/abs/1409.4842)]
 
+
 #### 2014-08
 
 - Convolutional Neural Networks for Sentence Classification [[arxiv](http://arxiv.org/abs/1408.5882)]
 
+
 #### 2014-07
+
 
 #### 2014-06
 
@@ -493,19 +524,25 @@ General
 - [Recurrent Models of Visual Attention](notes/recurrent-models-of-visual-attention.md) [[arXiv](http://arxiv.org/abs/1406.6247)]
 - Generative Adversarial Networks [[arXiv](http://arxiv.org/abs/1406.2661)]
 
+
 #### 2014-05
 
 - [Distributed Representations of Sentences and Documents](notes/distributed-representations-of-sentences-and-documents.md) [[arXiv](http://arxiv.org/abs/1405.4053)]
+
 
 #### 2014-04
 
 - A Convolutional Neural Network for Modelling Sentences [[arXiv](http://arxiv.org/abs/1404.2188)]
 
+
 #### 2014-03
+
 
 #### 2014-02
 
+
 #### 2014-01
+
 
 #### 2013
 
@@ -519,4 +556,3 @@ General
 #### 2011
 
 - Natural Language Processing (almost) from Scratch [[arXiv](http://arxiv.org/abs/1103.0398)]
-
