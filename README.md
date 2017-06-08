@@ -272,7 +272,7 @@ Machine Translation & Dialog
 - A Semisupervised Approach for Language Identification based on Ladder Networks [[arXiv](http://arxiv.org/abs/1604.00317)]
 - [Deep Networks with Stochastic Depth](notes/stochastic-depth.md) [[arXiv](http://arxiv.org/abs/1603.09382)]
 - PHOCNet: A Deep Convolutional Neural Network for Word Spotting in Handwritten Documents [[arXiv](http://arxiv.org/abs/1604.00187)]
-- [Benchmarking Deep Reinforcement Learning for Continuous Control] [[arxiv](https://arxiv.org/abs/1604.06778)]
+- [Benchmarking Deep Reinforcement Learning for Continuous Control] [[arxiv](https://arxiv.org/abs/1604.06778) [slides](https://www.dropbox.com/s/rqtpp1jv2jtzxeg/ICML2016_benchmarking_slides.pdf)]
 
 
 #### 2016-03
