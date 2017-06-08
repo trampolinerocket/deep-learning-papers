@@ -1,6 +1,6 @@
 Deep learning papers index - in chronological order.
 
-Forked gratefully from Denny Britz, with subsequent additions.  Links in titles themselves are to notes on the papers, so far all by Denny.
+Forked gratefully from Denny Britz https://github.com/dennybritz, with subsequent additions.  Links in titles themselves are to notes on the papers, so far all by Denny.
 
 
 #### 2017-05
