@@ -322,7 +322,8 @@ Machine Translation & Dialog
 - [WebNav: A New Large-Scale Task for Natural Language based Sequential Decision Making](notes/webnav.md) [[arXiv](http://arxiv.org/abs/1602.02261)]
 - [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers](notes/efficient-char-level-document-classification-cnn-rnn.md) [[arXiv](http://arxiv.org/abs/1602.00367)]
 - BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 [[arXiv](http://arxiv.org/abs/1602.02830)]
-- Learning Discriminative Features via Label Consistent Neural Network [[arXiv](http://arxiv.org/abs/1602.01168)]
+- [Learning Discriminative Features via Label Consistent Neural Network][[arXiv](http://arxiv.org/abs/1602.01168)]
+- [Densely Connected Convolutional Networks][[arxiv](https://arxiv.org/abs/1608.06993)][[github](https://github.com/liuzhuang13/DenseNet)][[facebook research blog](https://research.fb.com/publications/densely-connected-convolutional-networks/)]
 
 
 #### 2016-01
