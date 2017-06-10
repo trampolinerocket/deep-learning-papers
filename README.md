@@ -6,6 +6,7 @@ Forked gratefully from Denny Britz https://github.com/dennybritz, with subsequen
 #### 2017-06
 
 - A simple neural network module for relational reasoning [[arxiv](https://arxiv.org/abs/1706.01427)[DeepMind blog post](https://arxiv.org/abs/1706.01427)]
+- Visual Interaction Networks [[arxiv](https://arxiv.org/abs/1706.01433)]
 - Self-Normalizing Neural Networks [[arxiv](https://arxiv.org/abs/1706.02515)]
 
 
