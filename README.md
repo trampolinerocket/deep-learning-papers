@@ -3,6 +3,11 @@ Deep learning papers index - in chronological order.
 Forked gratefully from Denny Britz https://github.com/dennybritz, with subsequent additions.  Links in titles themselves are to notes on the papers, so far all by Denny.
 
 
+#### 2017-06
+
+- Self-Normalizing Neural Networks [[arxiv](https://arxiv.org/abs/1706.02515)]
+
+
 #### 2017-05
 
 - Best Practices for Applying Deep Learning to Novel Applications [[arxiv](https://arxiv.org/abs/1704.01568)]
@@ -86,7 +91,7 @@ Generative Adversarial Networks [[arxiv](https://arxiv.org/abs/1701.04862)] [[Op
 
 Reinforcement Learning:
 
--Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
+- Learning to reinforcement learn [[arXiv](https://arxiv.org/abs/1611.05763)]
 - A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models [[arXiv](https://arxiv.org/abs/1611.03852)]
 - The Predictron: End-To-End Learning and Planning [[OpenReview](http://openreview.net/forum?id=BkJsCIcgl)]
 - [Third-Person Imitation Learning](notes/third-person-imitation-learning.md) [[OpenReview](http://openreview.net/forum?id=B16dGcqlx)]
@@ -495,6 +500,7 @@ General
 - [On Using Very Large Target Vocabulary for Neural Machine Translation](notes/on-using-very-large-target-vocabulary-for-nmt.md) [[arXiv](http://arxiv.org/abs/1412.2007)]
 - Effective Use of Word Order for Text Categorization with Convolutional Neural Networks [[arXiv](http://arxiv.org/abs/1412.1058v1)]
 - Multiple Object Recognition with Visual Attention [[arXiv](http://arxiv.org/abs/1412.7755)]
+- Grammar as a Foreign Language [[arxiv](https://arxiv.org/abs/1412.7449)]
 
 
 #### 2014-11
