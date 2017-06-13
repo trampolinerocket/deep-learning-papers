@@ -6,8 +6,9 @@ Forked gratefully from Denny Britz https://github.com/dennybritz, with subsequen
 #### 2017-06
 
 - A simple neural network module for relational reasoning [[arxiv](https://arxiv.org/abs/1706.01427)[DeepMind blog post](https://arxiv.org/abs/1706.01427)]
-- Visual Interaction Networks [[arxiv](https://arxiv.org/abs/1706.01433)]
-- Self-Normalizing Neural Networks [[arxiv](https://arxiv.org/abs/1706.02515)]
+- Visual Interaction Networks [[arxiv](https://arxiv.org/abs/1706.01433)[DeepMind blog post](https://arxiv.org/abs/1706.01427)]
+- Self-Normalizing Neural Networks [[arxiv](https://arxiv.org/abs/1706.02515)[chainer implementation](https://github.com/musyoku/self-normalizing-networks)[reddit discussion](https://www.reddit.com/r/MachineLearning/comments/6g5tg1/r_selfnormalizing_neural_networks_improved_elu/)[twitter account, lol](https://twitter.com/SELUAppendix)]
+- Attention Is All You Need [[arxiv](https://arxiv.org/abs/1706.03762)]
 
 
 #### 2017-05
@@ -330,7 +331,7 @@ Machine Translation & Dialog
 - [Efficient Character-level Document Classification by Combining Convolution and Recurrent Layers](notes/efficient-char-level-document-classification-cnn-rnn.md) [[arXiv](http://arxiv.org/abs/1602.00367)]
 - BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1 [[arXiv](http://arxiv.org/abs/1602.02830)]
 - [Learning Discriminative Features via Label Consistent Neural Network][[arXiv](http://arxiv.org/abs/1602.01168)]
-- [Densely Connected Convolutional Networks][[arxiv](https://arxiv.org/abs/1608.06993)][[github](https://github.com/liuzhuang13/DenseNet)][[facebook research blog](https://research.fb.com/publications/densely-connected-convolutional-networks/)]
+- [Densely Connected Convolutional Networks][[arxiv](https://arxiv.org/abs/1608.06993)][[github](https://github.com/liuzhuang13/DenseNet)][[facebook research blog post](https://research.fb.com/publications/densely-connected-convolutional-networks/)]
 
 
 #### 2016-01
